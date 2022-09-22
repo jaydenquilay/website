@@ -11,3 +11,4 @@ Roadmap:
 - Add a box on the right side of the website for the directory, instead of using buttons.
 - CSS work.
 - Javascript for the backend.
+- Add images (Portrait, Photography photos, all that is necessary).
