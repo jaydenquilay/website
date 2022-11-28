@@ -13,4 +13,5 @@ Expect many edits to happen as I go.
 - CSS work.
 - Javascript for the backend.
 - Add images (Portrait, Clothing, Photography photos, all that is necessary). I KEEP FORGETTING TO ADD THE CLOTHING IMAGES.
-- Fix the button spacing on the Photography section
+- Fix the button spacing on the Photography section.
+- Dark Mode for all pages, I'm considering a button for switching between light and dark.
