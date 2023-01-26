@@ -12,6 +12,6 @@ Expect many edits to happen as I go.
   ###### Temporarily on the top, but I might consider it to be the final cut.
 - CSS work.
 - Javascript for the backend.
-- Add images (Portrait, Clothing, Photography photos, all that is necessary).
+- ~~Add images (Portrait, Clothing, Photography photos, all that is necessary).~~
 - ~~Fix the button spacing on the Photography section.~~
-- Dark Mode for all pages, I'm considering a button for switching between light and dark.
+- ~~Dark Mode for all pages.~~
